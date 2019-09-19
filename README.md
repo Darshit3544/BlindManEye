@@ -1,0 +1,2 @@
+# BlindMansEye
+We have mainly created this device for blind man. We all know that in world blind man have many problems in today’s world. So we have created one smart device that can detect object for blind people and also tell distance of object. It also gives an alert message if blind man collides with any other object. This alert message with object name is send by Jetson board to Bluetooth device.
